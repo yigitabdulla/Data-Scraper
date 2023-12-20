@@ -1,0 +1,170 @@
+Caddy;Volkswagen;1.150.000₺;Tiptronic;Dizel;2 Lt;Önden Çekiş;122 Hp;Yok;Yok;24.01.2024;2023;20.897 km;Cityvan;Gri;186 Km/h;Yok*;Yok*;320;4;50;5.5 (Şİ) / 3.8 (ŞD);Yok*
+Caddy;Volkswagen;1.150.000₺;Tiptronic;Dizel;2 Lt;Önden Çekiş;122 Hp;Yok;Yok;26.01.2024;2023;19.044 km;Cityvan;Siyah;186 Km/h;Yok*;Yok*;320;4;50;5.5 (Şİ) / 3.8 (ŞD);Yok*
+Caddy;Volkswagen;1.150.000₺;Tiptronic;Dizel;2 Lt;Önden Çekiş;122 Hp;Yok;Yok;29.01.2024;2023;26.019 km;Cityvan;Beyaz;186 Km/h;Yok*;Yok*;320;4;50;5.5 (Şİ) / 3.8 (ŞD);Yok*
+Polo;Volkswagen;1.122.900₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;95 Hp;Yok;Yok;10.03.2026;2023;11.025 km;Hatchback;Duman Gri;187 Km/h;351 Lt;Yok*;175;3;40;0 (Şİ) / 0 (ŞD);Yok*
+Golf;Volkswagen;1.060.000₺;Manuel;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;2.03.2023;2023;14.303 km;Hatchback;Beyaz;202 Km/h;380 Lt;Yok*;200;3;45;0 (Şİ) / 0 (ŞD);Yok*
+Golf;Volkswagen;1.050.000₺;Manuel;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;19.01.2026;2023;21.637 km;Hatchback;Beyaz;202 Km/h;380 Lt;Yok*;200;3;45;0 (Şİ) / 0 (ŞD);Yok*
+Polo;Volkswagen;1.047.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;95 Hp;Yok;Yok;16.02.2026;2023;7.684 km;Hatchback;Saf Beyaz;187 Km/h;351 Lt;Yok*;175;3;40;0 (Şİ) / 0 (ŞD);Yok*
+Kodiaq;Skoda;1.980.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;24.04.2026;2023;14.170 km;Arazi aracı;Gri;205 Km/h;835 Lt;Yok*;250;4;58;0 (Şİ) / 0 (ŞD);Yok*
+Kodiaq;Skoda;1.940.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;21.04.2026;2023;13.796 km;Arazi aracı;Gri;205 Km/h;835 Lt;Yok*;250;4;58;0 (Şİ) / 0 (ŞD);Yok*
+Superb;Skoda;1.880.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;31.03.2026;2023;16.173 km;Hatchback;Büyülü Siyah;221 Km/h;595 Lt;Yok*;250;4;66;0 (Şİ) / 0 (ŞD);Yok*
+Karoq;Skoda;1.695.500₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;2.03.2026;2023;11.981 km;Arazi aracı;Mavi;210 Km/h;521 Lt;Yok*;250;4;50;0 (Şİ) / 0 (ŞD);Yok*
+Superb;Skoda;1.620.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;13.02.2026;2023;14.830 km;Hatchback;Gri;221 Km/h;595 Lt;Yok*;250;4;66;0 (Şİ) / 0 (ŞD);Yok*
+Tiguan;Volkswagen;2.029.750₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;19.01.2026;2023;6.027 km;Arazi aracı;Mavi;202 Km/h;615 Lt;Yok*;250;4;58;0 (Şİ) / 0 (ŞD);Yok*
+Caravelle;Volkswagen;1.988.000₺;Tiptronic;Dizel;2 Lt;Önden Çekiş;150 Hp;Yok;Yok;3.04.2026;2023;6.585 km;Cityvan;Siyah;182 Km/h;Yok*;Yok*;340;4;70;6.3 (Şİ) / 5.3 (ŞD);Yok*
+Passat Variant;Volkswagen;1.925.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;7.12.2026;2023;9.272 km;Wagon;Okyanus Mavisi;214 Km/h;650 Lt;Yok*;250;4;66;0 (Şİ) / 0 (ŞD);Yok*
+T-ROC;Volkswagen;1.675.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;23.01.2026;2023;9.711 km;Arazi aracı;Gri;207 Km/h;445 Lt;Yok*;250;4;50;0 (Şİ) / 0 (ŞD);Yok*
+T-ROC;Volkswagen;1.675.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;19.01.2026;2023;8.883 km;Arazi aracı;Beyaz;207 Km/h;445 Lt;Yok*;250;4;50;0 (Şİ) / 0 (ŞD);Yok*
+T-ROC;Volkswagen;1.660.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;19.01.2026;2023;11.235 km;Arazi aracı;Gri;207 Km/h;445 Lt;Yok*;250;4;50;0 (Şİ) / 0 (ŞD);Yok*
+T-ROC;Volkswagen;1.660.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;23.01.2026;2023;10.250 km;Arazi aracı;Gri;207 Km/h;445 Lt;Yok*;250;4;50;0 (Şİ) / 0 (ŞD);Yok*
+T-ROC;Volkswagen;1.660.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;21.01.2026;2023;6.687 km;Arazi aracı;Mavi;207 Km/h;445 Lt;Yok*;250;4;50;0 (Şİ) / 0 (ŞD);Yok*
+Tiguan;Volkswagen;1.650.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;20.01.2026;2023;17.862 km;Arazi aracı;Mavi;202 Km/h;615 Lt;Yok*;250;4;58;0 (Şİ) / 0 (ŞD);Yok*
+T-ROC;Volkswagen;1.630.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;19.01.2026;2023;12.346 km;Arazi aracı;Beyaz;207 Km/h;445 Lt;Yok*;250;4;50;0 (Şİ) / 0 (ŞD);Yok*
+T-ROC;Volkswagen;1.630.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;26.01.2026;2023;12.752 km;Arazi aracı;Gri;207 Km/h;445 Lt;Yok*;250;4;50;0 (Şİ) / 0 (ŞD);Yok*
+T-ROC;Volkswagen;1.630.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;26.01.2026;2023;11.757 km;Arazi aracı;Mavi;207 Km/h;445 Lt;Yok*;250;4;50;0 (Şİ) / 0 (ŞD);Yok*
+T-ROC;Volkswagen;1.630.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;26.01.2026;2023;6.786 km;Arazi aracı;Gri;207 Km/h;445 Lt;Yok*;250;4;50;0 (Şİ) / 0 (ŞD);Yok*
+T-ROC;Volkswagen;1.630.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;26.01.2026;2023;10.384 km;Arazi aracı;Gri;207 Km/h;445 Lt;Yok*;250;4;50;0 (Şİ) / 0 (ŞD);Yok*
+T-ROC;Volkswagen;1.630.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;26.01.2023;2023;12.843 km;Arazi aracı;Siyah;207 Km/h;445 Lt;Yok*;250;4;50;0 (Şİ) / 0 (ŞD);Yok*
+T-ROC;Volkswagen;1.630.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;26.01.2026;2023;16.736 km;Arazi aracı;Siyah;207 Km/h;445 Lt;Yok*;250;4;50;0 (Şİ) / 0 (ŞD);Yok*
+T-ROC;Volkswagen;1.570.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;26.01.2026;2023;44.046 km;Arazi aracı;Siyah;207 Km/h;445 Lt;Yok*;250;4;50;0 (Şİ) / 0 (ŞD);Yok*
+Passat Variant;Volkswagen;1.530.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;23.01.2026;2023;15.443 km;Wagon;Siyah;214 Km/h;650 Lt;Yok*;250;4;66;0 (Şİ) / 0 (ŞD);Yok*
+Passat Variant;Volkswagen;1.500.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;23.01.2026;2023;24.889 km;Wagon;Siyah;214 Km/h;650 Lt;Yok*;250;4;66;0 (Şİ) / 0 (ŞD);Yok*
+Polo;Volkswagen;1.287.900₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;95 Hp;Yok;Yok;30.03.2026;2023;6.610 km;Hatchback;Resif Mavi;187 Km/h;351 Lt;Yok*;175;3;40;0 (Şİ) / 0 (ŞD);Yok*
+Caddy;Volkswagen;1.270.000₺;Tiptronic;Dizel;2 Lt;Önden Çekiş;122 Hp;Yok;Yok;23.11.2023;2023;15.391 km;Cityvan;Gri;186 Km/h;Yok*;Yok*;320;4;50;5.5 (Şİ) / 3.8 (ŞD);Yok*
+Caddy;Volkswagen;1.230.000₺;Tiptronic;Dizel;2 Lt;Önden Çekiş;122 Hp;Yok;Yok;14.04.2024;2023;14.280 km;Cityvan;Açık Gri;186 Km/h;Yok*;Yok*;320;4;50;5.5 (Şİ) / 3.8 (ŞD);Yok*
+Caddy;Volkswagen;1.150.000₺;Tiptronic;Dizel;2 Lt;Önden Çekiş;122 Hp;Yok;Yok;8.09.2026;2023;13.745 km;Cityvan;Beyaz;186 Km/h;Yok*;Yok*;320;4;50;5.5 (Şİ) / 3.8 (ŞD);Yok*
+Caddy;Volkswagen;1.150.000₺;Tiptronic;Dizel;2 Lt;Önden Çekiş;122 Hp;Yok;Yok;25.01.2024;2023;14.728 km;Cityvan;Siyah;186 Km/h;Yok*;Yok*;320;4;50;5.5 (Şİ) / 3.8 (ŞD);Yok*
+Superb;Skoda;1.514.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;4.12.2023;2023;28.763 km;Hatchback;Atlantik Gri;221 Km/h;595 Lt;Yok*;250;4;66;0 (Şİ) / 0 (ŞD);Yok*
+Octavia;Skoda;1.235.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;19.01.2026;2023;24.894 km;Hatchback;Gri;208 Km/h;600 Lt;Yok*;200;3;45;0 (Şİ) / 0 (ŞD);Yok*
+Octavia;Skoda;1.235.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;16.01.2026;2023;29.430 km;Hatchback;Gri;208 Km/h;600 Lt;Yok*;200;3;45;0 (Şİ) / 0 (ŞD);Yok*
+Kamiq;Skoda;1.200.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;18.09.2025;2023;14.450 km;Arazi aracı;Siyah;198 Km/h;400 Lt;Yok*;200;3;50;0 (Şİ) / 0 (ŞD);Yok*
+Kamiq;Skoda;1.190.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;17.03.2026;2023;12.055 km;Arazi aracı;Mavi;198 Km/h;400 Lt;Yok*;200;3;50;0 (Şİ) / 0 (ŞD);Yok*
+Kamiq;Skoda;1.190.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;16.03.2026;2023;15.165 km;Arazi aracı;Mavi;198 Km/h;400 Lt;Yok*;200;3;50;0 (Şİ) / 0 (ŞD);Yok*
+Kamiq;Skoda;1.190.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;2.02.2026;2023;18.124 km;Arazi aracı;Gri;198 Km/h;400 Lt;Yok*;200;3;50;0 (Şİ) / 0 (ŞD);Yok*
+Kamiq;Skoda;1.190.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;20.03.2026;2023;14.355 km;Arazi aracı;Mavi;198 Km/h;400 Lt;Yok*;200;3;50;0 (Şİ) / 0 (ŞD);Yok*
+Kamiq;Skoda;1.190.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;23.01.2026;2023;15.650 km;Arazi aracı;Siyah;198 Km/h;400 Lt;Yok*;200;3;50;0 (Şİ) / 0 (ŞD);Yok*
+Kamiq;Skoda;1.190.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;17.09.2026;2023;15.336 km;Arazi aracı;Siyah;198 Km/h;400 Lt;Yok*;200;3;50;0 (Şİ) / 0 (ŞD);Yok*
+Kamiq;Skoda;1.190.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;18.10.2023;2023;18.170 km;Arazi aracı;Mavi;198 Km/h;400 Lt;Yok*;200;3;50;0 (Şİ) / 0 (ŞD);Yok*
+Fabia;Skoda;1.180.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;10.09.2026;2023;13.331 km;Hatchback;Kırmızı;225 Km/h;380 Lt;Yok*;250;4;40;0 (Şİ) / 0 (ŞD);Yok*
+Fabia;Skoda;1.180.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;17.02.2026;2023;12.283 km;Hatchback;Gri;225 Km/h;380 Lt;Yok*;250;4;40;0 (Şİ) / 0 (ŞD);Yok*
+Kamiq;Skoda;1.170.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;25.10.2023;2023;13.307 km;Arazi aracı;Beyaz;198 Km/h;400 Lt;Yok*;200;3;50;0 (Şİ) / 0 (ŞD);Yok*
+Kamiq;Skoda;1.150.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;16.03.2026;2023;14.985 km;Arazi aracı;Beyaz;198 Km/h;400 Lt;Yok*;200;3;50;0 (Şİ) / 0 (ŞD);Yok*
+Kamiq;Skoda;1.150.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;18.10.2023;2023;13.035 km;Arazi aracı;Gri;198 Km/h;400 Lt;Yok*;200;3;50;0 (Şİ) / 0 (ŞD);Yok*
+Scala;Skoda;1.020.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;9.02.2026;2023;10.890 km;Hatchback;Gri;202 Km/h;467 Lt;Yok*;200;3;50;0 (Şİ) / 0 (ŞD);Yok*
+Scala;Skoda;995.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;9.02.2026;2023;10.616 km;Hatchback;Grafit Gri;202 Km/h;467 Lt;Yok*;200;3;50;0 (Şİ) / 0 (ŞD);Yok*
+Scala;Skoda;970.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;26.01.2026;2023;15.615 km;Hatchback;Gri;202 Km/h;467 Lt;Yok*;200;3;50;0 (Şİ) / 0 (ŞD);Yok*
+Tarraco;SEAT;1.855.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;23.02.2026;2023;14.556 km;Arazi aracı;Beyaz;199 Km/h;230 Lt;Yok*;250;4;58;0 (Şİ) / 0 (ŞD);Yok*
+Ateca;SEAT;1.585.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;10.03.2026;2023;8.000 km;Arazi aracı;Beyaz;202 Km/h;510 Lt;Yok*;250;4;50;0 (Şİ) / 0 (ŞD);Yok*
+Ateca;SEAT;1.520.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;10.04.2026;2023;10.000 km;Arazi aracı;Gümüş Gri;202 Km/h;510 Lt;Yok*;250;4;50;0 (Şİ) / 0 (ŞD);Yok*
+Megane;Renault;1.090.000₺;Tiptronic;Benzin;1.3 Lt;Önden Çekiş;140 Hp;Yok;Yok;13.05.2026;2023;18.488 km;Sedan;Beyaz;205 Km/h;503 Lt;Yok*;240;4;50;6.3 (Şİ) / 4.5 (ŞD);Yok*
+Clio;Renault;845.000₺;Otomatik;Benzin;1 Lt;Önden Çekiş;90 Hp;Yok;Yok;13.03.2026;2023;21.525 km;Hatchback;Turuncu;175 Km/h;391 Lt;Yok*;142;3;42;6 (Şİ) / 4.4 (ŞD);Yok*
+207;Peugeot;545.000₺;Manuel;Benzin;1.4 Lt;Önden Çekiş;90 Hp;Yok;Yok;26.08.2024;2009;60.262 km;Hatchback;Alev Kırmızısı;180 Km/h;288 Lt;Yok*;133;4;50;8.5 (Şİ) / 5.2 (ŞD);16
+Civic;Honda;650.000₺;Otomatik;Benzin;1.6 Lt;Önden Çekiş;125 Hp;Yok;Yok;17.07.2025;2009;110.570 km;Sedan;Siyah;192 Km/h;389 Lt;Yok*;152;4;50;9.8 (Şİ) / 5.3 (ŞD);16;Kaput:Çizik;Ön Tampon:Çizik;Sağ Arka Çamurluk:Boyalı;Sol Arka Çamurluk:Boyalı, Çizik;Arka Tampon:Çizik;Bagaj:Çizik;Sağ Marşpiye:Boyalı
+207;Peugeot;545.000₺;Manuel;Benzin;1.4 Lt;Önden Çekiş;90 Hp;Yok;Yok;26.08.2024;2009;60.262 km;Hatchback;Alev Kırmızısı;180 Km/h;288 Lt;Yok*;133;4;50;8.5 (Şİ) / 5.2 (ŞD);16
+Civic;Honda;650.000₺;Otomatik;Benzin;1.6 Lt;Önden Çekiş;125 Hp;Yok;Yok;17.07.2025;2009;110.570 km;Sedan;Siyah;192 Km/h;389 Lt;Yok*;152;4;50;9.8 (Şİ) / 5.3 (ŞD);16;Kaput:Çizik;Ön Tampon:Çizik;Sağ Arka Çamurluk:Boyalı;Sol Arka Çamurluk:Boyalı, Çizik;Arka Tampon:Çizik;Bagaj:Çizik;Sağ Marşpiye:Boyalı
+Linea;Fiat;450.000₺;Manuel;Dizel;1.6 Lt;Önden Çekiş;105 Hp;Yok;Yok;22.08.2025;2009;115.587 km;Sedan;Gri;190 Km/h;500 Lt;Yok*;290;4;45;6.4 (Şİ) / 4.2 (ŞD);16;Kaput:Boyalı;Sağ Arka Kapı:Boyalı;Sağ Arka Çamurluk:Boyalı;Sol Arka Çamurluk:Boyalı;Sağ Marşpiye:Boyalı
+A3;Audi;720.000₺;Otomatik;Benzin;1.4 Lt;Önden Çekiş;125 Hp;Yok;Yok;9.08.2025;2009;144.221 km;Hatchback;Siyah;203 Km/h;370 Lt;Yok*;200;4;55;7.4 (Şİ) / 4.8 (ŞD);16;Sağ Arka Kapı:Boyalı;Sağ Arka Çamurluk:Boyalı
+Golf;Volkswagen;630.000₺;Tiptronic;Benzin;1.6 Lt;Önden Çekiş;102 Hp;Yok;Yok;5.06.2025;2008;80.000 km;Hatchback;Metalik Kara Büyü;181 Km/h;350 Lt;Yok*;148;4;55;11.3 (Şİ) / 6.4 (ŞD);8;Ön Tampon:Boyalı;Sağ Ön Çamurluk:Boyalı;Sağ Ön Kapı:Lokal Boyalı;Sağ Arka Kapı:Boyalı;Sağ Arka Çamurluk:Boyalı;Sol Ön Kapı:Ezik;Sol Arka Kapı:Çizik;Sol Arka Çamurluk:Boyalı;Arka Tampon:Boyalı, Hasarlı;Sağ Marşpiye:Hasarlı
+B-Serisi;Mercedes-Benz;530.000₺;Otomatik;LPG;1.5 Lt;Önden Çekiş;95 Hp;Yok;Yok;20.04.2025;2006;158.800 km;MPV;Siyah;175 Km/h;550 Lt;Yok*;140;4;54;0 (Şİ) / 0 (ŞD);8;Kaput:Boyalı;Ön Tampon:Boyalı;Sağ Ön Çamurluk:Boyalı;Sağ Arka Kapı:Boyalı;Sağ Arka Çamurluk:Boyalı;Sol Ön Çamurluk:Boyalı;Sol Ön Kapı:Boyalı;Sol Arka Kapı:Boyalı;Sol Arka Çamurluk:Boyalı;Arka Tampon:Boyalı;Bagaj:Boyalı
+Jazz;Honda;495.000₺;Multitronic;LPG;1.3 Lt;Önden Çekiş;83 Hp;Yok;Yok;21.09.2021;2005;159.117 km;Hatchback;Gri;160 Km/h;380 Lt;Yok*;119;4;42;7.2 (Şİ) / 5.1 (ŞD);8;Sağ Ön Çamurluk:Boyalı;Sağ Ön Kapı:Boyalı;Sağ Arka Kapı:Boyalı;Sağ Arka Çamurluk:Değişen;Sol Ön Çamurluk:Boyalı;Sol Ön Kapı:Boyalı;Sol Arka Kapı:Değişen;Bagaj:Değişen;Sağ Marşpiye:Boyalı;Sol Marşpiye:Boyalı
+H2;Hummer;2.300.000₺;Otomatik;Benzin;6 Lt;4x4;325 Hp;Yok;Yok;8.12.2023;2003;215.490 km;Arazi aracı;Siyah;208 Km/h;535 Lt;Yok*;440;8;100;0 (Şİ) / 0 (ŞD);32
+M3;BMW;2.500.000₺;Manuel;Benzin;3.2 Lt;Arkadan İtiş;340 Hp;Yok;Yok;5.01.2023;2003;167.795 km;Coupe;Mavi;250 Km/h;440 Lt;Yok*;300;6;63;0 (Şİ) / 0 (ŞD);24;Tavan:Boyalı;Kaput:Boyalı;Ön Tampon:Boyalı;Sağ Ön Çamurluk:Boyalı;Sağ Ön Kapı:Boyalı;Sağ Arka Kapı:Boyalı;Sağ Arka Çamurluk:Boyalı;Sol Ön Çamurluk:Boyalı;Sol Ön Kapı:Boyalı;Sol Arka Kapı:Boyalı;Sol Arka Çamurluk:Boyalı;Arka Tampon:Boyalı;Bagaj:Boyalı;Sağ Marşpiye:Boyalı;Sol Marşpiye:Boyalı
+Passat;Volkswagen;500.000₺;Otomatik;Benzin;1.8 Lt;Önden Çekiş;150 Hp;Yok;Yok;12.10.2024;2000;160.653 km;Sedan;Gümüş Gri;201 Km/h;475 Lt;Yok*;168;4;62;12.3 (Şİ) / 7 (ŞD);20;Tavan:Çizik;Kaput:Değişen;Ön Tampon:Değişen, Çizik;Sağ Ön Çamurluk:Boyalı, Ezik;Sağ Ön Kapı:Boyalı, Ezik;Sağ Arka Kapı:Boyalı, Çizik;Sağ Arka Çamurluk:Boyalı, Çizik, Ezik;Sol Ön Çamurluk:Boyalı, Çizik;Sol Ön Kapı:Ezik;Sol Arka Kapı:Lokal Boyalı, Ezik;Sol Arka Çamurluk:Boyalı, Ezik;Arka Tampon:Boyalı, Çizik;Bagaj:Ezik
+Taliant;Renault;825.000₺;Otomatik;Benzin;1 Lt;Önden Çekiş;90 Hp;Yok;Yok;12.01.2026;2023;31.409 km;Sedan;Beyaz;169 Km/h;628 Lt;Yok*;142;3;50;0 (Şİ) / 0 (ŞD);Yok*;Ön Tampon:Boyalı, Çizik;Sağ Ön Çamurluk:Ezik;Sağ Ön Kapı:Ezik;Sağ Arka Kapı:Çizik;Sağ Arka Çamurluk:Lokal Boyalı;Sağ Marşpiye:Boyalı;Sol Marşpiye:Ezik
+Clio;Renault;810.000₺;Otomatik;Benzin;1 Lt;Önden Çekiş;90 Hp;Yok;Yok;16.02.2026;2023;28.920 km;Hatchback;Mavi;175 Km/h;391 Lt;Yok*;142;3;42;6 (Şİ) / 4.4 (ŞD);Yok*
+Clio;Renault;810.000₺;Otomatik;Benzin;1 Lt;Önden Çekiş;90 Hp;Yok;Yok;18.02.2026;2023;19.200 km;Hatchback;Mavi;175 Km/h;391 Lt;Yok*;142;3;42;6 (Şİ) / 4.4 (ŞD);Yok*
+Clio;Renault;793.000₺;Manuel;Benzin;1 Lt;Önden Çekiş;90 Hp;Yok;Yok;16.02.2026;2023;9.988 km;Hatchback;Mavi;180 Km/h;391 Lt;Yok*;160;3;42;6.1 (Şİ) / 4.1 (ŞD);Yok*;Ön Tampon:Çizik;Sağ Arka Kapı:Çizik;Sağ Arka Çamurluk:Çizik;Arka Tampon:Çizik;Sağ Marşpiye:Ezik
+Taliant;Renault;780.000₺;Otomatik;Benzin;1 Lt;Önden Çekiş;90 Hp;Yok;Yok;19.01.2026;2023;21.605 km;Sedan;Gri;169 Km/h;628 Lt;Yok*;142;3;50;0 (Şİ) / 0 (ŞD);Yok*
+Taliant;Renault;780.000₺;Otomatik;Benzin;1 Lt;Önden Çekiş;90 Hp;Yok;Yok;19.01.2026;2023;20.294 km;Sedan;Gri;169 Km/h;628 Lt;Yok*;142;3;50;0 (Şİ) / 0 (ŞD);Yok*;Ön Tampon:Çizik
+Taliant;Renault;780.000₺;Otomatik;Benzin;1 Lt;Önden Çekiş;90 Hp;Yok;Yok;10.03.2026;2023;19.922 km;Sedan;Beyaz;169 Km/h;628 Lt;Yok*;142;3;50;0 (Şİ) / 0 (ŞD);Yok*
+Taliant;Renault;775.000₺;Otomatik;Benzin;1 Lt;Önden Çekiş;90 Hp;Yok;Yok;11.03.2026;2023;15.395 km;Sedan;Beyaz;169 Km/h;628 Lt;Yok*;142;3;50;0 (Şİ) / 0 (ŞD);Yok*;Sağ Ön Kapı:Lokal Boyalı
+Taycan;Porsche;7.450.000₺;Otomatik;Elektrik;3 Lt;4x4;530 Hp;Yok;Yok;9.02.2026;2023;19.007 km;Sedan;Gri;250 Km/h;407 Lt;Yok*;640;Yok*;Yok*;0 (Şİ) / 0 (ŞD);Yok*;Sol Arka Çamurluk:Ezik;Arka Tampon:Çizik
+Macan;Porsche;5.650.000₺;Tiptronic;Benzin;2 Lt;4x4;265 Hp;Yok;Yok;23.02.2026;2023;7.650 km;Arazi aracı;Gri;232 Km/h;488 Lt;Yok*;400;4;65;10.8 (Şİ) / 7.6 (ŞD);16
+Corsa;Opel;969.000₺;Otomatik;Elektrik;0 Lt;Önden Çekiş;136 Hp;Yok;Yok;1.01.2026;2023;8.985 km;Hatchback;Açık Mavi;150 Km/h;267 Lt;Yok*;260;Yok*;Yok*;0 (Şİ) / 0 (ŞD);Yok*
+Corsa;Opel;964.000₺;Otomatik;Elektrik;0 Lt;Önden Çekiş;136 Hp;Yok;Yok;1.01.2025;2023;16.541 km;Hatchback;Ateş Turuncusu;150 Km/h;267 Lt;Yok*;260;Yok*;Yok*;0 (Şİ) / 0 (ŞD);Yok*;Sağ Ön Çamurluk:Çizik;Sağ Ön Kapı:Çizik
+E-Serisi;Mercedes-Benz;5.126.500₺;Tiptronic;Dizel;2 Lt;4x4;265 Hp;Yok;Yok;27.02.2026;2023;17.500 km;Coupe;Siyah;250 Km/h;405 Lt;Yok*;550;4;66;7.3 (Şİ) / 4.5 (ŞD);Yok*
+Rio;KIA;885.000₺;Otomatik;Benzin;1.4 Lt;Önden Çekiş;100 Hp;Yok;Yok;26.01.2026;2023;6.622 km;Hatchback;Mavi;183 Km/h;300 Lt;Yok*;133;4;45;8.2 (Şİ) / 5 (ŞD);Yok*
+KUGA;Ford;1.419.500₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;182 Hp;Yok;Yok;20.03.2026;2023;8.772 km;Arazi aracı;Beyaz;200 Km/h;511 Lt;Yok*;240;3;54;0 (Şİ) / 0 (ŞD);Yok*
+Tourneo Courier;Ford;850.000₺;Manuel;Dizel;1.5 Lt;Önden Çekiş;100 Hp;Yok;Yok;19.02.2024;2023;36.893 km;Cityvan;Beyaz;Yok*;Yok*;Yok*;215;4;44;0 (Şİ) / 0 (ŞD);Yok*
+Egea;Fiat;750.000₺;Manuel;Benzin;1.4 Lt;Önden Çekiş;95 Hp;Yok;Yok;27.04.2028;2023;7.606 km;Sedan;Beyaz;186 Km/h;520 Lt;Yok*;127;4;45;0 (Şİ) / 0 (ŞD);Yok*;Sağ Arka Kapı:Çizik;Sağ Marşpiye:Ezik
+Formentor;Cupra;1.700.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;25.09.2025;2023;13.383 km;Arazi aracı;Siyah;203 Km/h;450 Lt;Yok*;250;4;50;0 (Şİ) / 0 (ŞD);Yok*;Sol Ön Kapı:Çizik;Arka Tampon:Çizik
+Formentor;Cupra;1.700.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;26.01.2026;2023;15.585 km;Arazi aracı;Kırmızı;203 Km/h;450 Lt;Yok*;250;4;50;0 (Şİ) / 0 (ŞD);Yok*
+DS 7;Citroen;1.989.000₺;Tiptronic;Dizel;1.5 Lt;Önden Çekiş;130 Hp;Yok;Yok;23.05.2025;2023;8.865 km;Arazi aracı;Altea Siyahı;195 Km/h;555 Lt;Yok*;300;4;55;0 (Şİ) / 0 (ŞD);Yok*
+5 Serisi;BMW;3.250.000₺;Tiptronic;Benzin;1.6 Lt;Arkadan İtiş;170 Hp;Yok;Yok;20.01.2026;2023;32.500 km;Sedan;Akik Gri;226 Km/h;530 Lt;Yok*;250;4;68;0 (Şİ) / 0 (ŞD);Yok*;Sol Arka Çamurluk:Lokal Boyalı
+E-TRON SPORTBACK;Audi;4.580.000₺;Otomatik;Elektrik;0 Lt;4x4;408 Hp;Yok;Yok;15.12.2025;2023;6.629 km;Arazi aracı;Gri;200 Km/h;555 Lt;Yok*;664;Yok*;Yok*;0 (Şİ) / 0 (ŞD);Yok*
+A6;Audi;4.400.000₺;Tiptronic;Dizel;2 Lt;4x4;204 Hp;Yok;Yok;3.03.2026;2023;8.365 km;Sedan;Siyah;246 Km/h;530 Lt;Yok*;400;4;73;4.8 (Şİ) / 4.1 (ŞD);Yok*
+A4;Audi;2.750.000₺;Tiptronic;Dizel;2 Lt;4x4;204 Hp;Yok;Yok;23.02.2026;2023;13.000 km;Sedan;Mavi;210 Km/h;460 Lt;Yok*;400;4;58;5.4 (Şİ) / 3.9 (ŞD);Yok*
+A4;Audi;2.520.000₺;Tiptronic;Benzin;2 Lt;4x4;265 Hp;Yok;Yok;16.02.2026;2023;16.383 km;Sedan;Metalik Mavi;250 Km/h;460 Lt;Yok*;370;4;58;9.1 (Şİ) / 5.7 (ŞD);Yok*;Ön Tampon:Değişen;Sağ Ön Çamurluk:Boyalı;Sağ Ön Kapı:Değişen;Sağ Arka Kapı:Değişen
+Q3;Audi;2.198.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;22.04.2026;2023;9.820 km;Arazi aracı;Siyah;210 Km/h;530 Lt;Yok*;250;4;58;7.1 (Şİ) / 5.1 (ŞD);Yok*
+A3;Audi;1.750.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;16.03.2026;2023;9.246 km;Sedan;Gri;232 Km/h;425 Lt;Yok*;250;4;50;5.9 (Şİ) / 4 (ŞD);Yok*;Ön Tampon:Boyalı;Sol Ön Çamurluk:Boyalı;Sol Ön Kapı:Boyalı;Sol Arka Kapı:Boyalı;Sol Arka Çamurluk:Boyalı
+A3;Audi;1.510.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;21.04.2026;2023;6.100 km;Hatchback;Ibis Beyazı;224 Km/h;380 Lt;Yok*;250;4;50;5.9 (Şİ) / 4.1 (ŞD);Yok*
+A3;Audi;1.505.500₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;14.04.2024;2023;18.790 km;Hatchback;Beyaz;224 Km/h;380 Lt;Yok*;250;4;50;5.9 (Şİ) / 4.1 (ŞD);Yok*
+A3;Audi;1.460.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;23.02.2026;2023;15.023 km;Hatchback;Beyaz;224 Km/h;380 Lt;Yok*;250;4;50;5.9 (Şİ) / 4.1 (ŞD);Yok*
+XC90;Volvo;4.999.990₺;Tiptronic;Dizel;2 Lt;4x4;235 Hp;Yok;Yok;8.09.2025;2022;34.361 km;Arazi aracı;Mavi;180 Km/h;709 Lt;Yok*;480;4;71;0 (Şİ) / 0 (ŞD);Yok*
+XC90;Volvo;4.649.750₺;Tiptronic;Dizel;2 Lt;4x4;235 Hp;Yok;Yok;10.02.2025;2022;26.040 km;Arazi aracı;Siyah;180 Km/h;314 Lt;Yok*;480;4;71;0 (Şİ) / 0 (ŞD);16;Sol Ön Kapı:Boyalı;Sol Arka Kapı:Boyalı
+XC90;Volvo;4.599.990₺;Tiptronic;Dizel;2 Lt;4x4;235 Hp;Yok;Yok;21.04.2025;2022;27.280 km;Arazi aracı;Mavi;180 Km/h;314 Lt;Yok*;480;4;71;0 (Şİ) / 0 (ŞD);16
+XC90;Volvo;4.499.990₺;Tiptronic;Dizel;2 Lt;4x4;235 Hp;Yok;Yok;10.02.2025;2022;36.781 km;Arazi aracı;Siyah;180 Km/h;314 Lt;Yok*;480;4;71;0 (Şİ) / 0 (ŞD);16;Sağ Ön Kapı:Boyalı;Sağ Arka Kapı:Boyalı;Bagaj:Lokal Boyalı
+XC60;Volvo;3.549.750₺;Tiptronic;Dizel;2 Lt;4x4;197 Hp;Yok;Yok;10.03.2025;2022;18.592 km;Arazi aracı;Gri;180 Km/h;483 Lt;Yok*;420;4;71;0 (Şİ) / 0 (ŞD);16
+XC60;Volvo;3.549.750₺;Tiptronic;Dizel;2 Lt;4x4;197 Hp;Yok;Yok;7.03.2025;2022;18.723 km;Arazi aracı;Siyah;180 Km/h;483 Lt;Yok*;420;4;71;0 (Şİ) / 0 (ŞD);16
+XC60;Volvo;3.499.990₺;Tiptronic;Dizel;2 Lt;4x4;197 Hp;Yok;Yok;28.04.2025;2022;26.908 km;Arazi aracı;Siyah;180 Km/h;483 Lt;Yok*;420;4;71;0 (Şİ) / 0 (ŞD);16
+Touareg;Volkswagen;6.650.000₺;Tiptronic;Dizel;3 Lt;4x4;286 Hp;Yok;Yok;17.02.2025;2022;8.850 km;Arazi aracı;Granit Gri;238 Km/h;810 Lt;Yok*;600;6;75;8.6 (Şİ) / 6.1 (ŞD);Yok*
+Tiguan;Volkswagen;3.300.000₺;Tiptronic;Dizel;2 Lt;4x4;200 Hp;Yok;Yok;11.02.2025;2022;33.210 km;Arazi aracı;Gri;216 Km/h;615 Lt;Yok*;400;4;58;6.4 (Şİ) / 4.9 (ŞD);Yok*;Ön Tampon:Çizik
+Golf R;Volkswagen;2.950.000₺;Tiptronic;Benzin;2 Lt;4x4;320 Hp;Yok;Yok;11.01.2025;2022;16.734 km;Hatchback;Mavi;270 Km/h;374 Lt;Yok*;420;4;55;9.1 (Şİ) / 5.8 (ŞD);Yok*;Ön Tampon:Çizik
+Passat Alltrack;Volkswagen;2.750.500₺;Tiptronic;Dizel;2 Lt;4x4;200 Hp;Yok;Yok;21.02.2025;2022;6.100 km;Wagon;Siyah;228 Km/h;639 Lt;Yok*;400;4;66;6.3 (Şİ) / 4.5 (ŞD);Yok*
+Tiguan Allspace;Volkswagen;2.250.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;14.10.2025;2022;6.250 km;Arazi aracı;Gri;200 Km/h;760 Lt;Yok*;250;4;58;6.6 (Şİ) / 5.6 (ŞD);Yok*;Sağ Ön Kapı:Ezik
+Passat;Volkswagen;2.250.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;19.05.2023;2022;13.000 km;Sedan;Mavi;220 Km/h;586 Lt;Yok*;250;4;66;6.2 (Şİ) / 5 (ŞD);16
+Tiguan Allspace;Volkswagen;2.220.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;26.05.2025;2022;14.450 km;Arazi aracı;Siyah;200 Km/h;760 Lt;Yok*;250;4;58;6.6 (Şİ) / 5.6 (ŞD);Yok*
+Passat;Volkswagen;1.999.900₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;5.02.2025;2022;10.140 km;Sedan;Gri;220 Km/h;586 Lt;Yok*;250;4;66;6.2 (Şİ) / 5 (ŞD);16
+Tiguan Allspace;Volkswagen;1.915.900₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;22.04.2025;2022;37.571 km;Arazi aracı;Gri;200 Km/h;760 Lt;Yok*;250;4;58;6.6 (Şİ) / 5.6 (ŞD);Yok*
+Passat;Volkswagen;1.829.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;30.06.2025;2022;27.924 km;Sedan;Gri;220 Km/h;586 Lt;Yok*;250;4;66;6.2 (Şİ) / 5 (ŞD);16;Sol Arka Çamurluk:Boyalı
+Tiguan;Volkswagen;1.640.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;10.06.2025;2022;13.185 km;Arazi aracı;Mavi;202 Km/h;615 Lt;Yok*;250;4;58;6.6 (Şİ) / 5.5 (ŞD);Yok*
+Golf;Volkswagen;1.629.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;15.04.2025;2022;23.402 km;Hatchback;Limon Sarısı;224 Km/h;380 Lt;Yok*;250;4;50;5.9 (Şİ) / 4.1 (ŞD);Yok*;Bagaj:Boyalı
+Passat;Volkswagen;1.627.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;30.06.2025;2022;40.429 km;Sedan;Pirit Gümüş;220 Km/h;586 Lt;Yok*;250;4;66;6.2 (Şİ) / 5 (ŞD);16;Ön Tampon:Çizik;Sağ Ön Çamurluk:Çizik, Ezik;Arka Tampon:Çizik
+Passat;Volkswagen;1.602.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;25.04.2025;2022;32.516 km;Sedan;Buz Gri;220 Km/h;586 Lt;Yok*;250;4;66;6.2 (Şİ) / 5 (ŞD);16;Ön Tampon:Hasarlı;Sağ Arka Çamurluk:Çizik;Sol Arka Kapı:Değişen;Arka Tampon:Çizik
+Tiguan;Volkswagen;1.600.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;22.04.2025;2022;15.403 km;Arazi aracı;Beyaz;202 Km/h;615 Lt;Yok*;250;4;58;6.6 (Şİ) / 5.5 (ŞD);Yok*
+Golf;Volkswagen;1.569.500₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;17.02.2025;2022;37.714 km;Hatchback;Sarı;224 Km/h;380 Lt;Yok*;250;4;50;5.9 (Şİ) / 4.1 (ŞD);Yok*
+Golf;Volkswagen;1.560.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;11.02.2025;2022;31.015 km;Hatchback;Kırmızı;224 Km/h;380 Lt;Yok*;250;4;50;5.9 (Şİ) / 4.1 (ŞD);Yok*;Sağ Arka Kapı:Boyalı;Sol Arka Çamurluk:Ezik
+Passat;Volkswagen;1.557.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;15.06.2025;2022;31.270 km;Sedan;Buzul Beyazı;220 Km/h;586 Lt;Yok*;250;4;66;6.2 (Şİ) / 5 (ŞD);16;Tavan:Ezik;Ön Tampon:Çizik;Sağ Arka Çamurluk:Ezik;Arka Tampon:Çizik
+Golf;Volkswagen;1.549.500₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Var;Yok;27.01.2025;2022;39.762 km;Hatchback;Gri;224 Km/h;380 Lt;Yok*;250;4;50;5.9 (Şİ) / 4.1 (ŞD);Yok*;Sol Arka Kapı:Boyalı;Sol Arka Çamurluk:Boyalı
+T-ROC;Volkswagen;1.547.500₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;7.11.2025;2022;16.436 km;Arazi aracı;Kırmızı;205 Km/h;445 Lt;Yok*;250;4;50;6.9 (Şİ) / 4.8 (ŞD);Yok*
+T-ROC;Volkswagen;1.530.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;10.03.2025;2022;7.005 km;Arazi aracı;Gri;205 Km/h;445 Lt;Yok*;250;4;50;6.9 (Şİ) / 4.8 (ŞD);Yok*;Ön Tampon:Çizik;Sol Arka Kapı:Ezik
+T-ROC;Volkswagen;1.529.900₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;23.10.2023;2022;15.885 km;Arazi aracı;Gri;205 Km/h;445 Lt;Yok*;250;4;50;6.9 (Şİ) / 4.8 (ŞD);Yok*;Sağ Ön Çamurluk:Boyalı
+Tiguan;Volkswagen;1.529.750₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;28.04.2025;2022;28.912 km;Arazi aracı;Gri;202 Km/h;615 Lt;Yok*;250;4;58;6.6 (Şİ) / 5.5 (ŞD);Yok*;Sol Ön Kapı:Boyalı
+Golf;Volkswagen;1.519.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;7.04.2025;2022;34.615 km;Hatchback;Atlantik Mavi;224 Km/h;380 Lt;Yok*;250;4;50;5.9 (Şİ) / 4.1 (ŞD);Yok*
+T-ROC;Volkswagen;1.499.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;5.06.2025;2022;12.435 km;Arazi aracı;Kırmızı Siyah;205 Km/h;445 Lt;Yok*;250;4;50;6.9 (Şİ) / 4.8 (ŞD);Yok*;Ön Tampon:Boyalı;Sol Ön Çamurluk:Boyalı
+T-ROC;Volkswagen;1.449.500₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;12.06.2025;2022;30.010 km;Arazi aracı;Siyah;205 Km/h;445 Lt;Yok*;250;4;50;6.9 (Şİ) / 4.8 (ŞD);Yok*
+T-ROC;Volkswagen;1.449.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;24.03.2025;2022;30.893 km;Arazi aracı;Beyaz;205 Km/h;445 Lt;Yok*;250;4;50;6.9 (Şİ) / 4.8 (ŞD);Yok*
+Golf;Volkswagen;1.435.900₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;5.05.2025;2022;30.624 km;Hatchback;Kırmızı;202 Km/h;380 Lt;Yok*;200;3;45;5.1 (Şİ) / 3.9 (ŞD);Yok*
+T-ROC;Volkswagen;1.435.900₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;25.05.2025;2022;30.388 km;Arazi aracı;Beyaz;205 Km/h;445 Lt;Yok*;250;4;50;6.9 (Şİ) / 4.8 (ŞD);Yok*;Sol Arka Kapı:Boyalı
+Passat;Volkswagen;1.435.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;3.03.2025;2022;29.594 km;Sedan;Siyah;220 Km/h;586 Lt;Yok*;250;4;66;6.2 (Şİ) / 5 (ŞD);16
+Golf;Volkswagen;1.420.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;3.04.2025;2022;28.981 km;Hatchback;Gri;224 Km/h;380 Lt;Yok*;250;4;50;5.9 (Şİ) / 4.1 (ŞD);Yok*;Sol Ön Çamurluk:Değişen;Sol Ön Kapı:Değişen;Sol Arka Kapı:Boyalı
+Tiguan;Volkswagen;1.419.500₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;25.02.2025;2022;30.902 km;Arazi aracı;Mavi;202 Km/h;615 Lt;Yok*;250;4;58;6.6 (Şİ) / 5.5 (ŞD);Yok*
+T-ROC;Volkswagen;1.413.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;1.03.2025;2022;27.265 km;Arazi aracı;Ravena Mavi;205 Km/h;445 Lt;Yok*;250;4;50;6.9 (Şİ) / 4.8 (ŞD);Yok*;Sol Ön Kapı:Ezik;Sol Arka Kapı:Hasarlı
+Passat;Volkswagen;1.410.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;15.04.2025;2022;26.737 km;Sedan;Gri;220 Km/h;586 Lt;Yok*;250;4;66;6.2 (Şİ) / 5 (ŞD);16;Sağ Ön Kapı:Ezik;Sağ Arka Çamurluk:Ezik;Sol Ön Kapı:Ezik
+T-ROC;Volkswagen;1.403.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;15.04.2025;2022;24.088 km;Arazi aracı;Pirit Gümüş;205 Km/h;445 Lt;Yok*;250;4;50;6.9 (Şİ) / 4.8 (ŞD);Yok*;Ön Tampon:Çizik;Sağ Ön Çamurluk:Boyalı;Sağ Arka Kapı:Boyalı;Arka Tampon:Çizik
+Taigo;Volkswagen;1.399.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;1.08.2025;2022;12.030 km;Arazi aracı;Mercan Kırmızı;191 Km/h;438 Lt;Yok*;200;3;40;6 (Şİ) / 4.3 (ŞD);Yok*
+Passat;Volkswagen;1.397.900₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;25.02.2025;2022;42.382 km;Sedan;Gri;220 Km/h;586 Lt;Yok*;250;4;66;6.2 (Şİ) / 5 (ŞD);16
+T-ROC;Volkswagen;1.380.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;15.05.2025;2022;27.442 km;Arazi aracı;Petrol Mavisi;205 Km/h;445 Lt;Yok*;250;4;50;6.9 (Şİ) / 4.8 (ŞD);Yok*;Ön Tampon:Çizik, Ezik
+T-ROC;Volkswagen;1.376.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;15.05.2025;2022;27.090 km;Arazi aracı;Ravenna Mavisi;205 Km/h;445 Lt;Yok*;250;4;50;6.9 (Şİ) / 4.8 (ŞD);Yok*;Ön Tampon:Çizik
+T-ROC;Volkswagen;1.374.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;17.10.2025;2022;29.671 km;Arazi aracı;Saf Beyaz;205 Km/h;445 Lt;Yok*;250;4;50;6.9 (Şİ) / 4.8 (ŞD);Yok*;Sağ Arka Çamurluk:Ezik;Arka Tampon:Hasarlı;Bagaj:Ezik
+Taigo;Volkswagen;1.365.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;21.01.2025;2022;31.135 km;Arazi aracı;Mavi;191 Km/h;438 Lt;Yok*;200;3;40;6 (Şİ) / 4.3 (ŞD);Yok*;Sol Ön Çamurluk:Hasarlı
+Taigo;Volkswagen;1.360.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;21.06.2024;2022;18.454 km;Arazi aracı;Mavi;191 Km/h;438 Lt;Yok*;200;3;40;6 (Şİ) / 4.3 (ŞD);Yok*
+T-ROC;Volkswagen;1.359.900₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;12.05.2025;2022;32.614 km;Arazi aracı;Mavi;205 Km/h;445 Lt;Yok*;250;4;50;6.9 (Şİ) / 4.8 (ŞD);Yok*
+T-ROC;Volkswagen;1.359.900₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;8.05.2025;2022;33.269 km;Arazi aracı;Kırmızı;205 Km/h;445 Lt;Yok*;250;4;50;6.9 (Şİ) / 4.8 (ŞD);Yok*
+Passat;Volkswagen;1.359.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;3.03.2025;2022;31.737 km;Sedan;Gri;220 Km/h;586 Lt;Yok*;250;4;66;6.2 (Şİ) / 5 (ŞD);16
+Golf;Volkswagen;1.355.500₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;25.04.2025;2022;24.092 km;Hatchback;Sarı;202 Km/h;380 Lt;Yok*;200;3;45;5.1 (Şİ) / 3.8 (ŞD);Yok*;Sol Arka Çamurluk:Ezik
+Taigo;Volkswagen;1.350.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;17.02.2025;2022;29.726 km;Arazi aracı;Gri;191 Km/h;438 Lt;Yok*;200;3;40;6 (Şİ) / 4.3 (ŞD);Yok*;Ön Tampon:Çizik;Sağ Ön Kapı:Çizik;Sağ Arka Kapı:Çizik;Sol Arka Çamurluk:Çizik
+Taigo;Volkswagen;1.350.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;13.11.2024;2022;35.120 km;Arazi aracı;Gri;191 Km/h;438 Lt;Yok*;200;3;40;6 (Şİ) / 4.3 (ŞD);Yok*;Sağ Ön Çamurluk:Ezik
+Taigo;Volkswagen;1.350.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;17.02.2025;2022;53.018 km;Arazi aracı;Gri;191 Km/h;438 Lt;Yok*;200;3;40;6 (Şİ) / 4.3 (ŞD);Yok*;Ön Tampon:Boyalı
+T-ROC;Volkswagen;1.348.500₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;24.03.2025;2022;29.796 km;Arazi aracı;Kırmızı;205 Km/h;445 Lt;Yok*;250;4;50;6.9 (Şİ) / 4.8 (ŞD);Yok*
+T-ROC;Volkswagen;1.348.500₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;17.02.2025;2022;29.631 km;Arazi aracı;Beyaz;205 Km/h;445 Lt;Yok*;250;4;50;6.9 (Şİ) / 4.8 (ŞD);Yok*
+T-ROC;Volkswagen;1.346.000₺;Tiptronic;Benzin;1.5 Lt;Önden Çekiş;150 Hp;Yok;Yok;24.03.2025;2022;37.274 km;Arazi aracı;Mavi;205 Km/h;445 Lt;Yok*;250;4;50;6.9 (Şİ) / 4.8 (ŞD);Yok*
+Golf;Volkswagen;1.339.500₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Var;Yok;1.04.2025;2022;33.423 km;Hatchback;Kırmızı;202 Km/h;380 Lt;Yok*;200;3;45;5.1 (Şİ) / 3.9 (ŞD);Yok*
+Golf;Volkswagen;1.339.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;25.05.2025;2022;38.004 km;Hatchback;Sarı;202 Km/h;380 Lt;Yok*;200;3;45;5.1 (Şİ) / 3.9 (ŞD);Yok*
+Golf;Volkswagen;1.339.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;25.05.2025;2022;30.769 km;Hatchback;Kırmızı;202 Km/h;380 Lt;Yok*;200;3;45;5.1 (Şİ) / 3.9 (ŞD);Yok*
+Golf;Volkswagen;1.339.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;3.03.2025;2022;21.907 km;Hatchback;Sarı;202 Km/h;380 Lt;Yok*;200;3;45;5.1 (Şİ) / 3.9 (ŞD);Yok*
+Golf;Volkswagen;1.339.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;7.04.2025;2022;29.631 km;Hatchback;Gri;202 Km/h;380 Lt;Yok*;200;3;45;5.1 (Şİ) / 3.9 (ŞD);Yok*
+Taigo;Volkswagen;1.336.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;3.02.2025;2022;29.089 km;Arazi aracı;Duman Gri;191 Km/h;438 Lt;Yok*;200;3;40;6 (Şİ) / 4.3 (ŞD);Yok*
+Taigo;Volkswagen;1.335.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;24.02.2025;2022;27.299 km;Arazi aracı;Gri;191 Km/h;438 Lt;Yok*;200;3;40;6 (Şİ) / 4.3 (ŞD);Yok*;Ön Tampon:Çizik;Sağ Ön Kapı:Çizik;Sağ Arka Kapı:Çizik;Sol Ön Kapı:Çizik;Sol Arka Kapı:Çizik;Sağ Marşpiye:Çizik
+Golf;Volkswagen;1.334.500₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;24.03.2025;2022;31.620 km;Hatchback;Gri;202 Km/h;380 Lt;Yok*;200;3;45;5.1 (Şİ) / 3.9 (ŞD);Yok*;Sol Ön Kapı:Boyalı
+Taigo;Volkswagen;1.330.000₺;Tiptronic;Benzin;1 Lt;Önden Çekiş;110 Hp;Yok;Yok;10.02.2025;2022;8.575 km;Arazi aracı;Mavi;191 Km/h;438 Lt;Yok*;200;3;40;6 (Şİ) / 4.3 (ŞD);Yok*;Ön Tampon:Çizik
