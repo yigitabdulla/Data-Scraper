@@ -8,7 +8,7 @@ import csv
 input_file_path = 'output.txt'
 output_file_path = 'output.csv'
 
-
+#open file
 with open(input_file_path, 'r', encoding='utf-8') as txt_file, open(output_file_path, 'w', newline='', encoding='utf-8') as csv_file:
     csv_writer = csv.writer(csv_file)
 
