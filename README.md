@@ -25,6 +25,5 @@ pip install selenium
 2) Navigate to the project directory:
     cd second-hand-car-app
 3) Install tkinter and selenium libraries.
-
 4)Run the main script:
     python main.py
