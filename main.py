@@ -43,52 +43,7 @@ def open_main_ui(user_role):
 
             # Write the data to the CSV file
             csv_writer.writerows(data)
-    def add_data():
-        # Function to handle the "Add Data" button press
-
-        def save_data():
-            # Function to save data entered in the new window to the CSV file
-
-            # Get values from entry widgets
-            new_data = [entry.get() for entry in entry_widgets]
-
-            # Check if any entry is empty
-            if any(not value for value in new_data):
-                messagebox.showwarning("Add Data", "Please fill in all fields.")
-                return
-
-            # Append new data to the CSV file
-            with open('data.csv', 'a', newline='', encoding='utf-8') as csv_file:
-                csv_writer = csv.writer(csv_file, delimiter=';')
-                csv_writer.writerow(new_data)
-                
-            # Show success message
-            messagebox.showinfo("Add Data", "Data added successfully")
-
-            # Close the data entry window  
-            add_data_window.destroy()
-            root.destroy()
-            open_main_ui(user_role)
-
-        # Create a new window for data entry
-        add_data_window = tk.Toplevel(root)
-        add_data_window.title("Add Data")
-
-        # Create entry widgets for each column
-        entry_widgets = []
-        for col, column_name in enumerate(columns):
-            tk.Label(add_data_window, text=f"{column_name}:").grid(row=col, column=0, padx=5, pady=5)
-            entry = tk.Entry(add_data_window)
-            entry.grid(row=col, column=1, padx=5, pady=5)
-            entry_widgets.append(entry)
-
-        # Create "Save" button
-        save_button = tk.Button(add_data_window, text="Save Data", command=save_data)
-        save_button.grid(row=len(columns), column=0, columnspan=2, pady=10)
-
-    # Add Data button
-    add_data_button = tk.Button(root, text="Add Data", command=add_data)
-    
+            
     def filter_data():
         selected_brand = brand_var.get()
         selected_year = year_var.get()
@@ -144,3 +99,83 @@ def open_main_ui(user_role):
         else:
             # If no matching data, show a message
             treeview.insert('', 'end', values=["No matching data found"])
+    
+    # Reading data from text file and neatly creating dictionary
+    with open('modified_data2.csv', 'r', encoding='utf-8') as file:
+        lines = file.readlines()
+
+    data = []
+    for line in lines:
+        parts = line.strip().split(';')
+
+        if(len(parts) > 23):
+            print(parts)
+
+        car = {
+            'model': parts[0],
+            'brand': parts[1],
+            'price': parts[2],
+            'foreign_currency': parts[3],
+            'date_of_currency': parts[4],
+            'gear': parts[5],
+            'fuel': parts[6],
+            'engine_displacement': parts[7],
+            'transmission': parts[8],
+            'horsepower': parts[9],
+            'mortgage': parts[10],
+            'confiscation': parts[11],
+            'inspection': parts[12],
+            'year': parts[13],
+            'km': parts[14],
+            'area_of_use': parts[15],
+            'colour': parts[16],
+            'top_speed': parts[17],
+            'luggage_volume': parts[18],
+            '0-100': parts[19],
+            'max_torque': parts[20],
+            'cylinder': parts[21],
+            'tank': parts[22],
+            'consumption': parts[23],
+            'valve': parts[24]
+        }
+
+        data.append(car)
+    print(data[24])
+    
+    # Creating a TKinter window
+    root = tk.Tk()
+    root.title("Second Hand Car App")
+    input_frame = tk.Frame(root)
+    input_frame.pack()
+    
+    def search_data():
+        search_term = search_entry.get().strip().lower()
+
+        if not search_term:
+            return  # If the search term is empty, do not take action
+
+        # Clear filtered data
+        for i in treeview.get_children():
+            treeview.delete(i)
+
+        # Search by brand or model
+        filtered_cars = [car for car in data if
+                        search_term in car['brand'].lower() or
+                        search_term in car['model'].lower() or
+                        (search_term in f"{car['brand'].lower()} {car['model'].lower()}")]
+
+        # Show filtered data
+        if filtered_cars:
+            for car in filtered_cars:
+                values = [car.get(col.replace(' ', '_').lower(), '') for col in columns]
+                treeview.insert('', 'end', values=values)
+        else:
+            treeview.insert('', 'end', values=["No matching data found"])
+        
+        # Search entry
+    search_entry = tk.Entry(input_frame)
+    search_entry.pack(side=tk.LEFT)
+
+    # Search button
+    search_button = tk.Button(input_frame, text="Search", command=search_data)
+    search_button.pack(side=tk.LEFT, padx=(5, 200))
