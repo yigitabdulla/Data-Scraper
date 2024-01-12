@@ -266,4 +266,101 @@ def open_main_ui(user_role):
             
             if page_value <= 0:
                 messagebox.showerror("Error", "Please enter positive number")
+
+            except ValueError:
+            messagebox.showerror("Error", "Please enter a valid number")
+
+        for page in range(page_value, page_value + 1):
+            driver.get("https://dod.com.tr/arac-arama?page=" + str(page))
+            WebDriverWait(driver, 10).until(expected_conditions.visibility_of_element_located(
+                (By.CLASS_NAME, "do-search-result-table__container__cards")))
+            cars = driver.find_elements(By.CLASS_NAME, 'do-vehicle-card__preview')
+            car_links = []
+            car_num = 1
+            for car in cars:
+                href = car.find_element(By.XPATH,
+                                        "//*[@id='__layout']/div/div[3]/main/div[2]/div[2]/div[2]/div[3]/div/div[1]/div[" + str(
+                                            car_num) + "]/div/div[1]/div/a").get_attribute('href')
+                car_num += 1
+                car_links.append(href)
+
+            formatted_line = []
+
+            for car in car_links:
+
+                formatted_lines = []
+
+                car_driver = webdriver.Chrome(PATH)
+                car_driver.get(car)
+                WebDriverWait(car_driver, 15).until(expected_conditions.visibility_of_element_located(
+                    (By.CLASS_NAME, "do-vehicle-detail-primary-info__price-text")))
+
+                price = car_driver.find_elements(By.CLASS_NAME, "do-vehicle-detail-primary-info__price-text")
+                modal = car_driver.find_elements(By.CLASS_NAME, "do-vehicle-detail-primary-info__model")
+                brand = car_driver.find_elements(By.CLASS_NAME, "do-vehicle-detail-primary-info__brand")
+                details = car_driver.find_elements(By.CLASS_NAME,
+                                                   "do-vehicle-detail-info-section__other-specs__item__value")
+                info = car_driver.find_elements(By.CLASS_NAME,
+                                                "do-vehicle-detail-info-section__featured-specs__item__body")
+                ekspertiz = car_driver.find_elements(By.CLASS_NAME,
+                                                     "do-vehicle-expert-report-section__description-item")
+                formatted_lines.append(modal)
+                formatted_lines.append(brand)
+                formatted_lines.append(price)
+                formatted_lines.append(info)
+                formatted_lines.append(details)
+
+                data = []
+                for car_specs in formatted_lines:
+                    for spec in car_specs:
+                        value = spec.text
+                        data.append(value)
+
+                for i in range(3, 9):
+                    data[i] = data[i].split("\n")[1]
+
+                del data[8:12]
+
+                data2 = []
+                for rapor in ekspertiz:
+                    data2.append(rapor.text)
+
+                if (len(data2) > 0):
+                    updated_list = [entry.replace('\n', ':') for entry in data2]
+                    data = data + updated_list
+
+                with open('output2.txt', 'a', encoding='utf-8') as file:
+                    file.write(';'.join(map(str, data)) + '\n')
+
+                car_driver.close()
+            converting_csv_file()
+
+    page_label = tk.Label(root, text="Page number:")
+    page_label.pack()
+
+    page_entry = tk.Entry(root)
+    page_entry.pack()
+
+    root.geometry(f"{initial_width}x{initial_height}+{initial_position_x}+{initial_position_y}")
+
+    # Creating a data display widget (we will use Treeview)
+    treeview = ttk.Treeview(root, columns=columns, show='headings')
+
+    # Set column widths for each column
+    column_widths = [60, 60, 100, 60, 60, 60, 100, 100, 80, 100, 80, 60, 60, 80, 80, 80, 100, 80, 80, 80, 60, 100, 60,
+                     60]
+    for col, width in zip(columns, column_widths):
+        treeview.column(col, width=width, anchor=tk.CENTER)  # Adjust the anchor as needed
+
+    # Adjust column headers
+    for col in columns:
+        treeview.heading(col, text=col)
+
+    # Button for executing scraping
+    scrape_button = tk.Button(root, text="Scrape Data", command=lambda: scrape_data(page_entry))
+    # Conditionally disable the button based on user_role
+    if user_role != "admin":
+        scrape_button.config(state=tk.DISABLED)
+
+    scrape_button.pack()
         
