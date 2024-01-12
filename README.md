@@ -15,7 +15,6 @@ Before running the application, make sure you have the following dependencies in
 - Python (version 3.11)
 - Tkinter library
 - Selenium library
-- ChromeDriver executable (place it in the specified PATH)
 
 You can install the required Python libraries using the following command:
 pip install selenium
@@ -25,5 +24,6 @@ pip install selenium
     git clone https://github.com/yigitabdulla/Data-Scraper.git
 2) Navigate to the project directory:
     cd second-hand-car-app
-3)Run the main script:
+3) Install tkinter and selenium libraries.
+4)Run the main script:
     python main.py
