@@ -43,6 +43,51 @@ def open_main_ui(user_role):
 
             # Write the data to the CSV file
             csv_writer.writerows(data)
+    def add_data():
+        # Function to handle the "Add Data" button press
+
+        def save_data():
+            # Function to save data entered in the new window to the CSV file
+
+            # Get values from entry widgets
+            new_data = [entry.get() for entry in entry_widgets]
+
+            # Check if any entry is empty
+            if any(not value for value in new_data):
+                messagebox.showwarning("Add Data", "Please fill in all fields.")
+                return
+
+            # Append new data to the CSV file
+            with open('data.csv', 'a', newline='', encoding='utf-8') as csv_file:
+                csv_writer = csv.writer(csv_file, delimiter=';')
+                csv_writer.writerow(new_data)
+                
+            # Show success message
+            messagebox.showinfo("Add Data", "Data added successfully")
+
+            # Close the data entry window  
+            add_data_window.destroy()
+            root.destroy()
+            open_main_ui(user_role)
+
+        # Create a new window for data entry
+        add_data_window = tk.Toplevel(root)
+        add_data_window.title("Add Data")
+
+        # Create entry widgets for each column
+        entry_widgets = []
+        for col, column_name in enumerate(columns):
+            tk.Label(add_data_window, text=f"{column_name}:").grid(row=col, column=0, padx=5, pady=5)
+            entry = tk.Entry(add_data_window)
+            entry.grid(row=col, column=1, padx=5, pady=5)
+            entry_widgets.append(entry)
+
+        # Create "Save" button
+        save_button = tk.Button(add_data_window, text="Save Data", command=save_data)
+        save_button.grid(row=len(columns), column=0, columnspan=2, pady=10)
+
+    # Add Data button
+    add_data_button = tk.Button(root, text="Add Data", command=add_data)
     
     def filter_data():
         selected_brand = brand_var.get()
