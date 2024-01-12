@@ -179,3 +179,91 @@ def open_main_ui(user_role):
     # Search button
     search_button = tk.Button(input_frame, text="Search", command=search_data)
     search_button.pack(side=tk.LEFT, padx=(5, 200))
+
+    # Brand filtering
+    brand = ['All'] + list(set(car['brand'] for car in data))
+    brand_var = tk.StringVar(root)
+    brand_var.set(brand[0])  # Select "All" brand initially
+    brand_label = tk.Label(input_frame, text="Brand:")
+    brand_label.pack(side=tk.LEFT)
+
+    brand_dropdown = tk.OptionMenu(input_frame, brand_var, *brand)
+    brand_dropdown.pack(side=tk.LEFT)
+
+    # Model filtering
+    model = list(set(car['model'] for car in data))
+    model_var = tk.StringVar(root)
+    model_var.set("All")  # Select "All" model initially
+
+    model_label = tk.Label(input_frame, text="Model:")
+    model_label.pack(side=tk.LEFT)
+
+    model_dropdown = tk.OptionMenu(input_frame, model_var, "All", *model)
+    model_dropdown.pack(side=tk.LEFT)
+    
+    def update_models(*args):
+        selected_brand = brand_var.get()
+        models_for_selected_brand = list(set(car['model'] for car in data if car['brand'] == selected_brand))
+        models_for_selected_brand.insert(0, "All")  # Show all models
+        model_var.set("All")  # Initially selected "All"
+
+        # Update model dropdown menu options
+        menu = model_dropdown["menu"]
+        menu.delete(0, "end")
+        for model in models_for_selected_brand:
+            menu.add_command(label=model, command=tk._setit(model_var, model))
+    
+        # Update models when brand selection changes
+    brand_var.trace_add("write", update_models)
+
+    # Year dropdown
+    years = list(set(car['year'] for car in data))
+    years.insert(0, "All")  # Added row: Show all years
+    year_var = tk.StringVar(root)
+    year_var.set("All")  # Changed line: "All" is initially selected
+
+    year_label = tk.Label(input_frame, text="Filtering Year:")
+    year_label.pack(side=tk.LEFT)
+
+    year_dropdown = tk.OptionMenu(input_frame, year_var, *years)
+    year_dropdown.pack(side=tk.LEFT)
+
+    # Price Filtering
+    price_label = tk.Label(input_frame, text="Price Range:")
+    price_label.pack(side=tk.LEFT)
+
+    min_price_label = tk.Label(input_frame, text="Min:")
+    min_price_label.pack(side=tk.LEFT)
+
+    min_price_entry = tk.Entry(input_frame)
+    min_price_entry.pack(side=tk.LEFT)
+
+    max_price_label = tk.Label(input_frame, text="Max:")
+    max_price_label.pack(side=tk.LEFT)
+
+    max_price_entry = tk.Entry(input_frame)
+    max_price_entry.pack(side=tk.LEFT)
+
+    # Filtering button
+    filter_button = tk.Button(input_frame, text="Filter", command=filter_data)
+    filter_button.pack(side=tk.LEFT)
+    
+    # Set the initial size of the window and make it nearly full-screen
+    screen_width = root.winfo_screenwidth()
+    screen_height = root.winfo_screenheight()
+    initial_width = int(screen_width * 0.8)
+    initial_height = int(screen_height * 0.8)
+    initial_position_x = int((screen_width - initial_width) / 2)
+    initial_position_y = int((screen_height - initial_height) / 2)
+    
+    def scrape_data(page_entry):
+        
+        driver = webdriver.Chrome(PATH)
+        driver.maximize_window()
+        
+        try:
+            page_value = int(page_entry.get())
+            
+            if page_value <= 0:
+                messagebox.showerror("Error", "Please enter positive number")
+        
