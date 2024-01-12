@@ -22,7 +22,7 @@ pip install selenium
 
 ## How to Run
 1) Clone the repository to your local machine:
-    git clone https://github.com/your-username/second-hand-car-app.git
+    git clone https://github.com/yigitabdulla/Data-Scraper.git
 2) Navigate to the project directory:
     cd second-hand-car-app
 3)Run the main script:
