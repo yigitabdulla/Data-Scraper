@@ -363,4 +363,100 @@ def open_main_ui(user_role):
         scrape_button.config(state=tk.DISABLED)
 
     scrape_button.pack()
+
+    def add_data():
+    # Function to handle the "Add Data" button press
+
+        def save_data():
+            # Function to save data entered in the new window to the CSV file
+
+            # Get values from entry widgets
+            new_data = [entry.get() for entry in entry_widgets]
+
+            # Check if any entry is empty
+            if any(not value for value in new_data):
+                messagebox.showwarning("Add Data", "Please fill in all fields.")
+                return
+
+            # Append new data to the CSV file
+            with open('data.csv', 'a', newline='', encoding='utf-8') as csv_file:
+                csv_writer = csv.writer(csv_file, delimiter=';')
+                csv_writer.writerow(new_data)
+                
+            # Show success message
+            messagebox.showinfo("Add Data", "Data added successfully")
+
+            # Close the data entry window  
+            add_data_window.destroy()
+            root.destroy()
+            open_main_ui(user_role)
+
+        # Create a new window for data entry
+        add_data_window = tk.Toplevel(root)
+        add_data_window.title("Add Data")
+
+        # Create entry widgets for each column
+        entry_widgets = []
+        for col, column_name in enumerate(columns):
+            tk.Label(add_data_window, text=f"{column_name}:").grid(row=col, column=0, padx=5, pady=5)
+            entry = tk.Entry(add_data_window)
+            entry.grid(row=col, column=1, padx=5, pady=5)
+            entry_widgets.append(entry)
+
+        # Create "Save" button
+        save_button = tk.Button(add_data_window, text="Save Data", command=save_data)
+        save_button.grid(row=len(columns), column=0, columnspan=2, pady=10)
+
+    # Add Data button
+    add_data_button = tk.Button(root, text="Add Data", command=add_data)
+    
+    if user_role != "admin":
+        add_data_button.config(state=tk.DISABLED)
+    
+    add_data_button.pack()
+    
+    # Make the Treeview widget expand to fill available space
+    treeview.pack(expand=True, fill=tk.BOTH)
+    root.mainloop()
+
+def register():
+    username = entry_username_signup.get()
+    password = entry_password_signup.get()
+        
+    # Check if the username exists in the user_info.txt file
+    with open("user_info.txt", "r") as file:
+        for line in file:
+            stored_username, stored_password, role = line.strip().split(',')
+            if username == stored_username:
+                messagebox.showwarning("Registration Error","Username already exist!")
+                return
+    
+    role = "user"
+    
+    if ("admin" in username):
+        role = "admin"
+
+    # Check if username or password is empty
+    if not username or not password:
+        messagebox.showwarning("Registration Error", "Please enter both username and password.")
+        return
+
+    if username in user_database:
+            messagebox.showwarning("Registration Error","Username already exist!")
+            return
+        
+    # Store the registration information in a text file
+    with open("user_info.txt", "a") as file:
+        file.write(f"{username},{password},{role}\n")
+
+    # Store the registration information (you might want to use a database here)
+    # For simplicity, storing in a dictionary in memory
+    user_database[username] = password
+    
+
+    # Clear the registration entries
+    entry_username_signup.delete(0, tk.END)
+    entry_password_signup.delete(0, tk.END)
+
+    messagebox.showinfo("Registration Successful", "You have successfully registered.")
         
