@@ -1,6 +1,6 @@
 # Second Hand Car App
 
-This repository contains a Second Hand Car App implemented in Python using the Tkinter library for the graphical user interface and Selenium for web scraping. The app allows users to filter and search for second-hand cars based on various criteria such as brand, model, year, and price range. Additionally, it provides a scraping feature to fetch data from a car sales website.
+This repository contains a Second Hand Car App implemented in Python using the Tkinter library for user interface and Selenium for web scraping. The app allows users to filter and search for second-hand cars based on various criteria such as brand, model, year, and price range. Additionally, it provides a scraping feature to fetch data from a car sales website.
 
 ## Features
 
