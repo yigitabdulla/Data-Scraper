@@ -12,7 +12,7 @@ This repository contains a Second Hand Car App implemented in Python using the T
 
 Before running the application, make sure you have the following dependencies installed:
 
-- Python (version 3.x)
+- Python (version 3.11)
 - Tkinter library
 - Selenium library
 - ChromeDriver executable (place it in the specified PATH)
