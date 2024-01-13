@@ -459,4 +459,87 @@ def register():
     entry_password_signup.delete(0, tk.END)
 
     messagebox.showinfo("Registration Successful", "You have successfully registered.")
-        
+
+def login():
+    global user_role
+    username = entry_username_login.get()
+    password = entry_password_login.get()
+
+    # Check if username or password is empty
+    if not username or not password:
+        messagebox.showwarning("Login Error", "Please enter both username and password.")
+        return
+
+    # Check if the username exists in the user_info.txt file
+    with open("user_info.txt", "r") as file:
+        for line in file:
+            stored_username, stored_password, role = line.strip().split(',')
+            if username == stored_username and password == stored_password:
+                messagebox.showinfo("Login Successful", f"Welcome, {username}!")
+                user_role = role
+                root.destroy()
+
+                # Open the main UI
+                open_main_ui(username)
+
+                # Close the login frame (optional)
+                frame_login.pack_forget()
+                return
+
+    messagebox.showwarning("Login Error", "Username or password incorrect.")
+    
+
+# Create the main window
+root = tk.Tk()
+root.title("User Registration and Login")
+
+# Frames
+frame_signup = tk.Frame(root)
+frame_signup.pack(padx=10, pady=10)
+
+frame_login = tk.Frame(root)
+
+# Initial frame
+frame_signup.pack()
+
+# Registration widgets
+label_username_signup = tk.Label(frame_signup, text="Username:")
+label_username_signup.grid(row=0, column=0, padx=5, pady=5)
+entry_username_signup = tk.Entry(frame_signup)
+entry_username_signup.grid(row=0, column=1, padx=5, pady=5)
+
+label_password_signup = tk.Label(frame_signup, text="Password:")
+label_password_signup.grid(row=1, column=0, padx=5, pady=5)
+entry_password_signup = tk.Entry(frame_signup, show="*")
+entry_password_signup.grid(row=1, column=1, padx=5, pady=5)
+
+button_register = tk.Button(frame_signup, text="Register", command=register)
+button_register.grid(row=2, column=0, columnspan=2, pady=10)
+
+link_login = tk.Label(frame_signup, text="Already have an account? Login", fg="blue", cursor="hand2")
+link_login.grid(row=3, column=0, columnspan=2, pady=5)
+link_login.bind("<Button-1>", lambda event: switch_to_login())
+
+# Login widgets
+label_username_login = tk.Label(frame_login, text="Username:")
+label_username_login.grid(row=0, column=0, padx=5, pady=5)
+entry_username_login = tk.Entry(frame_login)
+entry_username_login.grid(row=0, column=1, padx=5, pady=5)
+
+label_password_login = tk.Label(frame_login, text="Password:")
+label_password_login.grid(row=1, column=0, padx=5, pady=5)
+entry_password_login = tk.Entry(frame_login, show="*")
+entry_password_login.grid(row=1, column=1, padx=5, pady=5)
+
+button_login = tk.Button(frame_login, text="Login", command=login)
+button_login.grid(row=2, column=0, columnspan=2, pady=10)
+
+link_signup = tk.Label(frame_login, text="Don't have an account? Sign Up", fg="blue", cursor="hand2")
+link_signup.grid(row=3, column=0, columnspan=2, pady=5)
+link_signup.bind("<Button-1>", lambda event: switch_to_signup())
+
+# Dummy user database (replace with a database or more secure storage)
+user_database = {}
+
+# Start the Tkinter main loop
+root.mainloop()
