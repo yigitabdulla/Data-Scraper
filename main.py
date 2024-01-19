@@ -405,7 +405,7 @@ def open_main_ui(user_role):
 
         # Create "Save" button
         save_button = tk.Button(add_data_window, text="Save Data", command=save_data)
-        save_button.grid(row=len(columns), column=0, columnspan=2, pady=10)
+        save_button.grid(row=len(columns), column=0, columnspan=2, pady=9)
 
     # Add Data button
     add_data_button = tk.Button(root, text="Add Data", command=add_data)
