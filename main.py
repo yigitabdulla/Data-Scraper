@@ -258,7 +258,7 @@ def open_main_ui(user_role):
     
     def scrape_data(page_entry):
         
-        driver = webdriver.Chrome(PATH)
+        driver = webdriver.Chrome()
         driver.maximize_window()
         
         try:
@@ -290,7 +290,7 @@ def open_main_ui(user_role):
 
                 formatted_lines = []
 
-                car_driver = webdriver.Chrome(PATH)
+                car_driver = webdriver.Chrome()
                 car_driver.get(car)
                 WebDriverWait(car_driver, 15).until(expected_conditions.visibility_of_element_located(
                     (By.CLASS_NAME, "do-vehicle-detail-primary-info__price-text")))
