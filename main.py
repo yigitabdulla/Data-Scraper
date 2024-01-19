@@ -398,7 +398,7 @@ def open_main_ui(user_role):
         # Create entry widgets for each column
         entry_widgets = []
         for col, column_name in enumerate(columns):
-            tk.Label(add_data_window, text=f"{column_name}:").grid(row=col, column=0, padx=5, pady=5)
+            tk.Label(add_data_window, text=f"{column_name}:").grid(row=col, column=0, padx=5, pady=4)
             entry = tk.Entry(add_data_window)
             entry.grid(row=col, column=1, padx=5, pady=5)
             entry_widgets.append(entry)
