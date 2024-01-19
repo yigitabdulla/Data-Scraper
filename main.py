@@ -267,7 +267,7 @@ def open_main_ui(user_role):
             if page_value <= 0:
                 messagebox.showerror("Error", "Please enter positive number")
 
-            except ValueError:
+        except ValueError:
             messagebox.showerror("Error", "Please enter a valid number")
 
         for page in range(page_value, page_value + 1):
