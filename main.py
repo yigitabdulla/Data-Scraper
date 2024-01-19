@@ -329,7 +329,7 @@ def open_main_ui(user_role):
                     updated_list = [entry.replace('\n', ':') for entry in data2]
                     data = data + updated_list
 
-                with open('output2.txt', 'a', encoding='utf-8') as file:
+                with open('output.txt', 'a', encoding='utf-8') as file:
                     file.write(';'.join(map(str, data)) + '\n')
 
                 car_driver.close()
@@ -379,7 +379,7 @@ def open_main_ui(user_role):
                 return
 
             # Append new data to the CSV file
-            with open('data.csv', 'a', newline='', encoding='utf-8') as csv_file:
+            with open('modified_data2.csv', 'a', newline='', encoding='utf-8') as csv_file:
                 csv_writer = csv.writer(csv_file, delimiter=';')
                 csv_writer.writerow(new_data)
                 
