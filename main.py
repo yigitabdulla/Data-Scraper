@@ -325,7 +325,7 @@ def open_main_ui(user_role):
                     updated_list = [entry.replace('\n', ':') for entry in data2]
                     data = data + updated_list
 
-                with open('output.txt', 'a', encoding='utf-8') as file:
+                with open('output.txt', 'w', encoding='utf-8') as file:
                     file.write(';'.join(map(str, data)) + '\n')
 
                 car_driver.close()
