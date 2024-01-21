@@ -6,6 +6,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions
+PATH = "C:\Program Files (x86)\chromedriver"
 
 user_role = ""
 
@@ -108,9 +109,6 @@ def open_main_ui(user_role):
     for line in lines:
         parts = line.strip().split(';')
 
-        if(len(parts) > 23):
-            print(parts)
-
         car = {
             'model': parts[0],
             'brand': parts[1],
@@ -140,7 +138,6 @@ def open_main_ui(user_role):
         }
 
         data.append(car)
-    print(data[24])
     
     # Creating a TKinter window
     root = tk.Tk()
@@ -258,7 +255,7 @@ def open_main_ui(user_role):
     
     def scrape_data(page_entry):
         
-        driver = webdriver.Chrome()
+        driver = webdriver.Chrome(PATH)
         driver.maximize_window()
         
         try:
@@ -290,7 +287,7 @@ def open_main_ui(user_role):
 
                 formatted_lines = []
 
-                car_driver = webdriver.Chrome()
+                car_driver = webdriver.Chrome(PATH)
                 car_driver.get(car)
                 WebDriverWait(car_driver, 15).until(expected_conditions.visibility_of_element_located(
                     (By.CLASS_NAME, "do-vehicle-detail-primary-info__price-text")))
@@ -334,6 +331,30 @@ def open_main_ui(user_role):
 
                 car_driver.close()
             converting_csv_file()
+            # Reading data from text file and neatly creating dictionary
+            with open('output.csv', 'r', encoding='utf-8') as file:
+                lines = file.readlines()
+
+
+            data = []
+
+            for line in lines:
+                parts = line.strip().split(';')
+                parts.insert(3,"30.20")
+                parts.insert(4,"21.01.2024")
+                data.append(parts)
+
+            # Writing modified data back to a new CSV file
+            with open('modified_data2.csv', 'a', encoding='utf-8', newline='') as csvfile:
+                writer = csv.writer(csvfile, delimiter=';')
+                writer.writerows(data)
+        
+        reopen_ui()
+    
+    def reopen_ui():
+        root.destroy()
+        open_main_ui(user_role)
+        
 
     page_label = tk.Label(root, text="Page number:")
     page_label.pack()
